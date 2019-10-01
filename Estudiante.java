@@ -12,7 +12,7 @@ public class Estudiante
      
 
     /**
-     * Constructor  
+     * Constructor, prueba  
      */
     public Estudiante(String queNombre, int queNota)    {
         nombre = queNombre;
